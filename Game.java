@@ -1,4 +1,4 @@
-package assignment4Game;
+// there will be a choice of easy, medium, or hard soon.
 
 import java.io.*;
 
