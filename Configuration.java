@@ -1,4 +1,4 @@
-// there will be easy, medium, or hard soon 
+// there will be a choice of easy, medium, or hard soon.
 
 public class Configuration {
 	
