@@ -1,4 +1,4 @@
-package assignment4Game;
+// there will be easy, medium, or hard soon 
 
 public class Configuration {
 	
